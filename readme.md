@@ -2,12 +2,12 @@
 
 ## Overview
 
-{Insert Name Here} is a powerful CLI tool designed to enhance your local development workflow. As a senior software engineer, this tool automates and simplifies the process of managing and orchestrating multiple projects, making your development process more efficient.
+{Insert Name Here} is a powerful CLI tool designed to enhance your local development workflow.T his tool automates and simplifies the process of managing and orchestrating multiple projects, making your development process more efficient.
 
 ## Features (To-Do List)
-- [ ] **Auto-Detect Projects**: Automatically detect projects in your local environment.
-- [ ] **Project Cloning**: Integrate with GitHub APIs to clone projects automatically.
-- [ ] **Proxy Management**: Check if the local proxy is running and manage its status.
+- [X] **Auto-Detect Projects**: Automatically detect projects in your local environment.
+- [/] **Project Cloning**: Integrate with GitHub APIs to clone projects automatically.
+- [X] **Proxy Management**: Check if the local proxy is running and manage its status.
 - [ ] **CLI Dashboard**: A user-friendly command-line interface for managing local projects.
 - [ ] **Easy Project Management**: Simplify the process of taking down and running projects.
 - [ ] **Deployment Simplification**: Deploy projects easily with integrated commands.
